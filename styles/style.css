@@ -216,6 +216,7 @@
 .about {
   display: grid;
   grid-template-columns: 334px auto;
+  justify-items: center;
   gap: 25px;
   margin-block: 120px 180px;
   padding-inline: 24px;
